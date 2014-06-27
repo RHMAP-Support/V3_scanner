@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "com.phonegap.plugins.barcodescanner",
+      "url": "http://github.com/phonegap-build/BarcodeScanner.git",
+      "version": "0.6.0"
+    }
+  ]
+}
